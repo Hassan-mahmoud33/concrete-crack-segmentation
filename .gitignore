@@ -1,0 +1,7 @@
+# Model weights and exported models
+*.pt
+*.pth
+*.keras
+*.h5
+*.onnx
+*.pb
